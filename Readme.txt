@@ -12,7 +12,7 @@ In Second Model Pneumonia
 
 =========================================================================================
 3 ==> 
-In Second Model Lungs Cancer 
+In Third Model Lungs Cancer 
 ==> Dataset is ==> 
  0   GENDER                 309 non-null    object  ==> not depend in model
  1   AGE                    309 non-null    int64 
