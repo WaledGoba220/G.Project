@@ -36,3 +36,5 @@ detection depend all not(GENDER & LUNG_CANCER)
 ==> output is (Normal) or (Positive Cancer) output(text)
 
 =========================================================================================
+
+
