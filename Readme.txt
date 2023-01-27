@@ -39,3 +39,5 @@ detection depend all not(GENDER & LUNG_CANCER)
 
 
 
+
+
